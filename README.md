@@ -1,91 +1,22 @@
-# Microsoft AI & ML Training 2026 🚀
+Microsoft AI & ML Training – 150 Hours
 
-This repository contains my learning journey, practical tasks, and projects completed during the **150-Hour Microsoft Artificial Intelligence & Machine Learning Training Program**, organized by **Nirmaan Organisation** through **Suryodaya College, Nagpur**.
+This repository contains my day-wise learning, practice tasks, and projects completed during the Microsoft AI & ML Training Program.
 
-The training focuses on building a strong foundation in Python, data analysis, visualization, and Machine Learning through hands-on practice and real-world datasets.
+📚 Day-wise Learning
+Day 1: Core Python – Basics, Variables, Data Types, Operators, Conditions, Loops, Functions, Lists, Tuples, Sets, Dictionaries and Practice Tasks.
+Day 2: Core Python – Advanced concepts and problem-solving practice.
+Day 3: NumPy – Arrays, indexing, slicing, mathematical operations and data manipulation.
+Day 4: Matplotlib – Data visualization, different plots and flag-based task.
+Day 5: Pandas & ML Projects – Student Score Prediction and Salary Prediction.
+Day 6: Machine Learning Algorithms – Comparing different ML algorithms on a dataset based on accuracy and understanding which algorithm is suitable according to the nature of the data.
+🎯 Objective
 
----
+To build a strong foundation in Python, Data Analysis, Visualization and Machine Learning through practical implementation and projects.
 
-## 📚 Training Roadmap
+🛠️ Technologies
 
-| Day | Topic | Practical Work |
-|-----|-------|----------------|
-| Day 1 | Python Basics | Basic Python programs and problem-solving |
-| Day 2 | Core Python | Lists, tuples, sets, dictionaries, functions, loops, etc. |
-| Day 3 | NumPy | Numerical computing and array operations |
-| Day 4 | Matplotlib | Data visualization and FLAG task |
-| Day 5 | Pandas & Data Analysis | Student Score Prediction & Salary Prediction |
-| Day 6 | Machine Learning | Algorithm comparison and model evaluation |
+Python | NumPy | Pandas | Matplotlib | Scikit-learn | Machine Learning | GitHub
 
----
+👩‍💻 Learning Outcome
 
-## 🐍 Day 1 – Python Basics
-
-Day 1 focused on understanding the fundamentals of Python programming.
-
-### Topics Covered
-
-- Variables and Data Types
-- Input and Output
-- Operators
-- Conditional Statements
-- `if`, `elif`, `else`
-- `for` and `while` loops
-- Basic problem-solving
-- User input programs
-
-### Practical Task
-
-One of the practical programs implemented was a **Login Page simulation** using username and password validation.
-
----
-
-## 🐍 Day 2 – Core Python
-
-Day 2 focused on important Python concepts required for data analysis and Machine Learning.
-
-### Topics Covered
-
-- Strings
-- Lists
-- Tuples
-- Sets
-- Dictionaries
-- Functions
-- Loops
-- List operations
-- String operations
-- Basic problem-solving
-- User-defined functions
-
-These concepts provided the foundation required for working with Python libraries used in Data Science and Machine Learning.
-
----
-
-## 🔢 Day 3 – NumPy
-
-Day 3 introduced **NumPy**, a fundamental Python library for numerical computing.
-
-### Topics Covered
-
-- NumPy arrays
-- Creating arrays
-- Array indexing and slicing
-- Array operations
-- Mathematical operations
-- Reshaping arrays
-- Aggregation functions
-- Basic statistical operations
-
-### Key Functions Practiced
-
-```python
-np.array()
-np.arange()
-np.zeros()
-np.ones()
-np.reshape()
-np.mean()
-np.max()
-np.min()
-np.sum()
+Hands-on experience with data processing, visualization, model training, algorithm comparison, and selecting suitable ML algorithms based on dataset characteristics
