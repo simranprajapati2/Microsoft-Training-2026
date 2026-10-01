@@ -1,5 +1,0 @@
-streamlit
-torch
-torchvision
-pillow
-numpy # Included as it might be a dependency of pillow or other underlying libs
